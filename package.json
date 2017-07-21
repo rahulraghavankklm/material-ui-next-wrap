@@ -1,0 +1,15 @@
+{
+  "name": "material-ui-next-wrap",
+  "version": "1.0.0-alpha.22",
+  "description": "Wrapper Package for Material UI Next.",
+  "main": "index.js",
+  "author": "Rahul Raghavan <rahulraghavankklm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "material-ui": "next"
+  },
+  "peerDependencies": {
+    "react": "^15.6.1 || ^16.0.0-alpha.13",
+    "react-dom": "^15.6.1 || ^16.0.0-alpha.13"
+  }
+}
